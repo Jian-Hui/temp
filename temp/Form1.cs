@@ -19,7 +19,7 @@ namespace temp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string var = "var3";
+            string var = "var4";
 
         }
     }
