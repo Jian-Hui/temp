@@ -20,6 +20,8 @@ namespace temp
         private void Form1_Load(object sender, EventArgs e)
         {
             string apple = "true";
+            string banana2 = "true";
+
 
 
         }
