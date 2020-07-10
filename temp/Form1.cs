@@ -19,8 +19,7 @@ namespace temp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string banana = "true";
-
+            string var = "var1";
 
         }
     }
