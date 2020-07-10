@@ -19,7 +19,8 @@ namespace temp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string var = "var1";
+            string apple = "true";
+
 
         }
     }
